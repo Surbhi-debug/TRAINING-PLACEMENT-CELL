@@ -42,18 +42,28 @@ A web-based Placement Analytics system for managing campus recruitment data, des
 2 . Set up Backend and Frontend
 
 npm init -y
+
 npm install express
+
 npm install ejs
+
 npm install mongoose
+
 npm install body-parser
+
 npm install bcrypt
+
 npm install express-session
+
 npm install connect-mongo
+
 npm install dotenv
+
 npm install --save-dev nodemon
 
 
 3 . Run the project with:
+
 npm start
 
 
@@ -61,12 +71,19 @@ npm start
 📁 Project Structure 
 
 PLACEMENT-CELL/
+
 ├── node_modules/         # Installed dependencies
+
 ├── public/css/           # Stylesheets
+
 ├── routes/               # Express route handlers
+
 ├── views/                # EJS templates (frontend views)
+
 ├── server.js             # Entry point of the app
+
 ├── package.json          # Project metadata and scripts
+
 └── README.md             # Project documentation
 
 
