@@ -40,6 +40,7 @@ A web-based Placement Analytics system for managing campus recruitment data, des
    cd placement-analytics
 
 2 . Set up Backend and Frontend
+
 npm init -y
 npm install express
 npm install ejs
