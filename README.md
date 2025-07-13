@@ -97,7 +97,7 @@ Basic validation and access control included
 
 
 📬 Contact
-For questions orosuggestions: Surbhi Malkani
+For questions or suggestions: Surbhi Malkani
 
 📧 surbhimalkani30@gmail.com
 
